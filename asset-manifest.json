@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/no_burger_nav/static/css/main.e1032c6e.chunk.css",
+    "main.js": "/no_burger_nav/static/js/main.f10b9577.chunk.js",
+    "main.js.map": "/no_burger_nav/static/js/main.f10b9577.chunk.js.map",
+    "runtime-main.js": "/no_burger_nav/static/js/runtime-main.6c1bfbae.js",
+    "runtime-main.js.map": "/no_burger_nav/static/js/runtime-main.6c1bfbae.js.map",
+    "static/js/2.7441d05b.chunk.js": "/no_burger_nav/static/js/2.7441d05b.chunk.js",
+    "static/js/2.7441d05b.chunk.js.map": "/no_burger_nav/static/js/2.7441d05b.chunk.js.map",
+    "index.html": "/no_burger_nav/index.html",
+    "static/css/main.e1032c6e.chunk.css.map": "/no_burger_nav/static/css/main.e1032c6e.chunk.css.map",
+    "static/js/2.7441d05b.chunk.js.LICENSE.txt": "/no_burger_nav/static/js/2.7441d05b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/no_burger_nav/static/media/sky.ad852234.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c1bfbae.js",
+    "static/js/2.7441d05b.chunk.js",
+    "static/css/main.e1032c6e.chunk.css",
+    "static/js/main.f10b9577.chunk.js"
+  ]
+}
